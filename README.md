@@ -30,6 +30,7 @@ The use of the logarithm provides extreme punishments for being both confident a
 I utilized a variety of different approaches and worked from various kernels provided from pervious years' competitions.  I utilized both R and Python but did not actively compete in this year's competition.  This was a great learning experience for me and helped me bolster my programming skills and knowledge of ML algorithms.
 
 Kernels I utilized:
+
 raddar, 2018 Women's winner: https://github.com/dbrait/ncaa_women_2018
 Virasat Khan's EDA: https://www.kaggle.com/kvirasat/women-s-ncaa-data-visualization
 Enrique Perez Herrero's starter R kernel: https://www.kaggle.com/enrique1500/basic-starter-kernel-translated-into-r/code
