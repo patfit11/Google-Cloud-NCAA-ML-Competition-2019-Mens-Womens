@@ -20,13 +20,8 @@ LogLoss=−1n∑i=1n[yilog(ŷ i)+(1−yi)log(1−ŷ i)],
 where
 
     n is the number of games played
-    ŷ i
-
-is the predicted probability of team 1 beating team 2
-yi
-is 1 if team 1 wins, 0 if team 2 wins
-log()
-
-    is the natural (base e) logarithm
+    ŷi is the predicted probability of team 1 beating team 2
+    yi is 1 if team 1 wins, 0 if team 2 wins
+    log() is the natural (base e) logarithm
 
 The use of the logarithm provides extreme punishments for being both confident and wrong. In the worst possible case, a prediction that something is true when it is actually false will add an infinite amount to your error score. In order to prevent this, predictions are bounded away from the extremes by a small value.
