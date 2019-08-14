@@ -32,9 +32,13 @@ I utilized a variety of different approaches and worked from various kernels pro
 Kernels I utilized:
 
 raddar, 2018 Women's winner: https://github.com/dbrait/ncaa_women_2018
+
 Virasat Khan's EDA: https://www.kaggle.com/kvirasat/women-s-ncaa-data-visualization
+
 Enrique Perez Herrero's starter R kernel: https://www.kaggle.com/enrique1500/basic-starter-kernel-translated-into-r/code
+
 KevinPan's minial elo R code: https://www.kaggle.com/kevinpan/minimal-code-for-fivethirtyeight-s-elo-predictions/log
+
 Conor Dewey's 2018 approach which utilized FiveThirtyEight's elo code: https://github.com/conordewey3/Kaggle-March-Madness-Machine-Learning-2018
 
 I tried to take elements from everyone's approaches to create my own unique approach.
